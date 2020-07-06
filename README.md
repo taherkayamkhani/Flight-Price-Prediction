@@ -18,6 +18,7 @@ Link: [https://taher-flight-price-prediction.herokuapp.com/predict](https://tahe
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
+• Click the link mentioned below for the Code, Algorithms used and Accuracy of the model: Link: https://github.com/taherkayamkhani/AI-ML-projects/tree/master/Machine%20Learning%20Projects/Flight%20Price%20Prediction
 
 ## Motivation
 What to do when you are at home due to this pandemic situation? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
